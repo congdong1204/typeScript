@@ -5,6 +5,9 @@ const Login = () => {
   const fetchUserData = () => {
     console.log('fetchUserData')
   }
+  const submitHandler = () => {
+    console.log('submitHandler')
+  }
   return
   // <View>
   //   <Text>Login</Text>
