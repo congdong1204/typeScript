@@ -2,6 +2,9 @@
 // import React from 'react'
 
 const Login = () => {
+  const fetchUserData = () => {
+    console.log('fetchUserData')
+  }
   return
   // <View>
   //   <Text>Login</Text>
