@@ -6,8 +6,9 @@ const Login = () => {
     console.log('fetchUserData')
   }
   const submitHandler = () => {
-    console.log('submitHandler')
+    console.log('Delete token from AsynStorage and Logout ')
   }
+  const Logout = () => {}
   return
   // <View>
   //   <Text>Login</Text>
